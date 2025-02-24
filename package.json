@@ -2,9 +2,9 @@
   "name": "ar",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
-    "build": "parcel build index.js",
+    "build": "parcel build index.html",
     "dev": "parcel index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
